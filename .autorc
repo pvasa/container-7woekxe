@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "pvasa",
+  "repo": "container-7woekxe",
+  "name": "pvasa",
+  "email": "37341231+pvasa@users.noreply.github.com",
+}
